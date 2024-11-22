@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "adYsVTYQJISWJacQZblF9MdD9EDjTwqPL0/8mZ/JqmA=",
+  "Source": "ProgressusWebApi",
+  "BasePath": "_content/ProgressusWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
